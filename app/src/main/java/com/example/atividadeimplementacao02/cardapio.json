@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nome": "Hamburguer de Costela",
+        "descricao": "Hamburguer artesanal, acompanha alface, tomate, cebola e molho especial.",
+        "preco": "26,90",
+        "gluten": "sim",
+        "calorias": "746",
+        "imagem": "https://swiftbr.vteximg.com.br/arquivos/ids/173182-768-768/hamburguer-picanha-swift-480g-615163-2.jpg?v=637541187388930000"
+    },
+    {
+        "id": 2,
+        "nome": "Hamburguer Vegetariano",
+        "descricao": "Hamburguer artesanal vegetariano, feito com grão de bico, cebola roxa, abacate e molho especial vegetariano.",
+        "preco": "28,90",
+        "gluten": "sim",
+        "calorias": "315",
+        "imagem": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/10/Hamburguer-vegetariano.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Mussarela sticks",
+        "descricao": "Porção com 6 fatias de queijo mussarela empanados e fritos na hora.",
+        "preco": "14,90",
+        "gluten": "sim",
+        "calorias": "473",
+        "imagem": "https://t1.rg.ltmcdn.com/pt/images/1/2/2/img_palito_de_queijo_frito_5221_600_square.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Batata Frita",
+        "descricao": "Batas fritas na hora, receita caseira, super crocantes.",
+        "preco": "11,90",
+        "gluten": "não",
+        "calorias": "312",
+        "imagem": "https://img.elo7.com.br/product/zoom/2E0CDC5/500-pcs-embalagem-batata-frita-linha-black-delivery.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Refrigerante lata",
+        "descricao": "Refrigerante lata 350ml",
+        "preco": "5,90",
+        "gluten": "não",
+        "calorias": "137",
+        "imagem": "https://araujo.vteximg.com.br/arquivos/ids/4042618-375-375/07894900010015.jpg?v=637436775975100000"
+    },
+    {
+        "id": 6,
+        "nome": "Suco lata",
+        "descricao": "Suco em lata 335ml",
+        "preco": "4,90",
+        "gluten": "não",
+        "calorias": "116",
+        "imagem": "https://farmaciaindiana.vteximg.com.br/arquivos/ids/205713/7894900660289_0.jpg?v=636746980087570000"
+    },
+    {
+        "id": 7,
+        "nome": "MilkShake",
+        "descricao": "Milkshake traidiconal disponível nos sabores: Morango, Creme e chocolate",
+        "preco": "16,90",
+        "gluten": "sim",
+        "calorias": "646",
+        "imagem": "https://www.selecoes.com.br/wp-content/uploads/2021/08/milk-shake-id1311373994.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Hamburguer de Nutella",
+        "descricao": "Pão recheado com muita nutella",
+        "preco": "19,90",
+        "gluten": "sim",
+        "calorias": "637",
+        "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/ac/3c/95/hamburguer-de-nutella.jpg"
+    }
+]
